@@ -46,6 +46,6 @@ hdparm → Disk tuning
 ⚡ Reality Check:
 90% of production issues come from disk bottlenecks.
 
-![Alt text](./disk-io.jpg)
+![Alt text]([./"disk io.jpg](https://github.com/jibon-dba/linux/blob/944ca6e77b5e3880d40ad8f0ea701c7e1e2fc55c/disk_io.jpg)")
 
 
